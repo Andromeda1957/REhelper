@@ -2,6 +2,8 @@
 This tool is designed to help with doing reverse engineering tasks. <br />
 For example this program comes with tools that will help you do the job. <br />
 
+## This tool has been discontinued use REhelper-V2 instead
+
 [![REhelper](https://github.com/3XPL017/REhelper/blob/master/images/usage.png)
 
 __Debug options__
